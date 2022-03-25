@@ -801,20 +801,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #EF7339;
+    background-color: #CB4B10;
 }
 
 .tc-white {
-    color: #EF7339!important;
+    color: #C14810!important;
 }
 
 .btn-atomic-tangerine {
-    background: #EF7339;
+    background: #C14810;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #AC613E!important;
+    background: #94360A!important;
     color: #FFFFFF!important;
 }
 
@@ -827,11 +827,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #C14810!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #AC613E!important;
+    color: #94360A!important;
 }
 
 .icon-dark-slate-blue {
@@ -878,13 +878,13 @@ h4 {
     }
 }
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     .b-parallax {
         background-attachment: scroll;
     }
 }
 
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
     .b-parallax {
         background-attachment: scroll;
     }
