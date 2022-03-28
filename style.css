@@ -26,6 +26,10 @@ a:hover {
     cursor: pointer;
 }
 
+a:focus{
+    text-decoration: underline;
+}
+
 ul  {
     padding-left: inherit;
     list-style-type: none;
@@ -45,6 +49,7 @@ ul  {
     list-style-type: disc;
     margin-left: 40px;
 }
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
