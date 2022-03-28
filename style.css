@@ -26,10 +26,6 @@ a:hover {
     cursor: pointer;
 }
 
-a:focus{
-    text-decoration: underline;
-}
-
 ul  {
     padding-left: inherit;
     list-style-type: none;
